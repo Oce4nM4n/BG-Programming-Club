@@ -7,6 +7,7 @@ def answer(question:int)->str:
 		case 3:
 			reply="() or tuple()"
 		case 4:
+			reply="check declaration"
 			def triangle(height:int)->None:
 				for i in range(0, height+1):
 					for squares in range(0, i+1):
@@ -15,6 +16,7 @@ def answer(question:int)->str:
 			triangle(5)
 
 		case 5:
+			reply="check declaration"
 			class House():
 				def __init__(self, size, bedrooms, bathrooms):
 					self.size=size
