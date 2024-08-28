@@ -3,7 +3,7 @@ def answer(question:int)->str:
 		case 1:
 			reply="Dictionary has keys which correspond to values, while a list is just a list of things which you can index"
 		case 2:
-			reply="sets are immutable objects with no order while tuples are just immutable lists"'
+			reply="sets are immutable objects with no order while tuples are just immutable lists"
 		case 3:
 			reply="() or tuple()"
 		case 4:
