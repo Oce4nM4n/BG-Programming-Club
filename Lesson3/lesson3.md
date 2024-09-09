@@ -18,7 +18,18 @@ Djangoo is more complicated but also allows for more stuff
 
 Insta also uses Django
 
+Let's first download the packages to the venv
+For Windows:
+pip install flask
+pip install django
+
+For Mac:
+pip3 install flask
+pip3 install django
+
+_In case you haven't realized by now only diff in syntax is that macs got a 3 at the end of pip or python while windows don't_
+
 Start off with
-**Flask_basics.py**
+**hello.py**
 then continue to
 **Django_basics.py**
